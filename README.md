@@ -1,3 +1,8 @@
+ARCHIVED: 
+---
+
+This repository is an archive. The current Police Scorecard project is managed in [another repository](https://github.com/staywoke/policing-scorecard).
+
 # ca-police-scorecard
 Code and data for Campaign Zero's California police scorecard
 
